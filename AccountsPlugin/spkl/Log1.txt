@@ -1,0 +1,67 @@
+1:13:17 PM	Deploying Plugins
+1:13:17 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:13:17 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:13:17 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:13:17 PM	2 plugin(s) found!
+1:13:18 PM	Registering Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:14:08 PM	Deploying Plugins
+1:14:08 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:14:09 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:14:09 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:14:09 PM	2 plugin(s) found!
+1:14:09 PM	Registering Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:14:11 PM	Registering Type 'SF365.Plugins.ContactDuplicateCheck'
+1:14:12 PM	Registering Step 'Contact Duplicate-check'
+1:17:21 PM	Deploying Plugins
+1:17:21 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:17:21 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:17:21 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:17:21 PM	2 plugin(s) found!
+1:17:21 PM	Checking for orphaned PluginTypes: 'AccountsPlugin' 
+1:17:21 PM	Updating Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:17:22 PM	Updating Type 'SF365.Plugins.ContactDuplicateCheck'
+1:17:23 PM	Registering Step 'Contact Duplicate-check'
+1:17:23 PM	Registering Image 'PreImage'
+1:18:25 PM	Deploying Plugins
+1:18:25 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:18:25 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:18:26 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:18:26 PM	2 plugin(s) found!
+1:18:26 PM	Checking for orphaned PluginTypes: 'AccountsPlugin' 
+1:18:26 PM	Updating Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:18:26 PM	Updating Type 'SF365.Plugins.ContactDuplicateCheck'
+1:18:27 PM	Updating Step 'Contact Duplicate-check'
+1:18:27 PM	Registering Image 'PreImage'
+1:21:15 PM	Deploying Plugins
+1:21:15 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:21:15 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:21:15 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:21:15 PM	2 plugin(s) found!
+1:21:16 PM	Checking for orphaned PluginTypes: 'AccountsPlugin' 
+1:21:16 PM	Updating Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:21:16 PM	Updating Type 'SF365.Plugins.ContactDuplicateCheck'
+1:21:17 PM	Registering Step 'Contact Duplicate-check'
+1:21:18 PM	Registering Image 'PreImage'
+1:21:55 PM	Deploying Plugins
+1:21:55 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:21:55 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:21:55 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:21:55 PM	2 plugin(s) found!
+1:21:55 PM	Checking for orphaned PluginTypes: 'AccountsPlugin' 
+1:21:55 PM	Updating Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:21:56 PM	Updating Type 'SF365.Plugins.ContactDuplicateCheck'
+1:21:56 PM	Updating Step 'Contact Duplicate-check'
+1:21:56 PM	Registering Image 'PreImage'
+1:22:30 PM	Deploying Plugins
+1:22:30 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+1:22:30 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+1:22:30 PM	Checking assembly 'AccountsPlugin.dll' for plugins
+1:22:30 PM	2 plugin(s) found!
+1:22:30 PM	Checking for orphaned PluginTypes: 'AccountsPlugin' 
+1:22:30 PM	Updating Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+1:22:31 PM	Updating Type 'SF365.Plugins.ContactDuplicateCheck'
+1:22:31 PM	Updating Step 'Contact Duplicate-check'
+1:22:32 PM	Registering Image 'PreImage'
+1:22:32 PM	Deleting step 'Contact Duplicate-check'
+1:22:34 PM	Checking assembly 'Microsoft.Xrm.Tooling.CrmConnectControl.dll' for plugins
+1:22:34 PM	Processed 1 config(s)

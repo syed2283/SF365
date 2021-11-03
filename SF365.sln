@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsPlugin", "AccountsPlugin\AccountsPlugin.csproj", "{33B5A689-0824-4BA3-BCFA-2B5D821551DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webresources", "Webresources\Webresources.csproj", "{036068C8-FC00-4449-B214-3B554EE0D097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B5A689-0824-4BA3-BCFA-2B5D821551DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B5A689-0824-4BA3-BCFA-2B5D821551DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B5A689-0824-4BA3-BCFA-2B5D821551DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B5A689-0824-4BA3-BCFA-2B5D821551DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036068C8-FC00-4449-B214-3B554EE0D097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036068C8-FC00-4449-B214-3B554EE0D097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036068C8-FC00-4449-B214-3B554EE0D097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036068C8-FC00-4449-B214-3B554EE0D097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BCBAABC-789A-4E2C-8BC9-C95C5FF8C952}
+	EndGlobalSection
+EndGlobal
