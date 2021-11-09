@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsPlugin", "AccountsPlugin\AccountsPlugin.csproj", "{33B5A689-0824-4BA3-BCFA-2B5D821551DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "AccountsPlugin\Plugins.csproj", "{33B5A689-0824-4BA3-BCFA-2B5D821551DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webresources", "Webresources\Webresources.csproj", "{036068C8-FC00-4449-B214-3B554EE0D097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Tests", "Plugin.Tests\Plugin.Tests.csproj", "{29E03472-C481-4BB9-8AA6-CE2E0D330FFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{036068C8-FC00-4449-B214-3B554EE0D097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036068C8-FC00-4449-B214-3B554EE0D097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036068C8-FC00-4449-B214-3B554EE0D097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E03472-C481-4BB9-8AA6-CE2E0D330FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E03472-C481-4BB9-8AA6-CE2E0D330FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E03472-C481-4BB9-8AA6-CE2E0D330FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E03472-C481-4BB9-8AA6-CE2E0D330FFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

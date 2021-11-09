@@ -65,3 +65,15 @@
 1:22:32 PM	Deleting step 'Contact Duplicate-check'
 1:22:34 PM	Checking assembly 'Microsoft.Xrm.Tooling.CrmConnectControl.dll' for plugins
 1:22:34 PM	Processed 1 config(s)
+11:53:37 AM	Deploying Plugins
+11:53:37 AM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\spkl\..'
+11:53:37 AM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin'
+11:53:37 AM	Checking assembly 'AccountsPlugin.dll' for plugins
+11:53:37 AM	2 plugin(s) found!
+11:53:38 AM	Checking for orphaned PluginTypes: 'AccountsPlugin' 
+11:53:38 AM	Updating Plugin 'AccountsPlugin' from 'C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\AccountsPlugin.dll'
+11:53:40 AM	Updating Type 'SF365.Plugins.ContactDuplicateCheck'
+11:53:41 AM	Updating Step 'Contact Duplicate-check'
+11:53:42 AM	Updating Image 'PreImage'
+11:53:43 AM	Checking assembly 'Microsoft.Xrm.Tooling.CrmConnectControl.dll' for plugins
+11:53:43 AM	Processed 1 config(s)

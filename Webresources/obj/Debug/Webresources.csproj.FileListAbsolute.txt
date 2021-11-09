@@ -50,8 +50,6 @@ C:\Users\syed.amanullah\source\repos\SF365\Webresources\bin\roslyn\vbc.exe.confi
 C:\Users\syed.amanullah\source\repos\SF365\Webresources\bin\roslyn\vbc.rsp
 C:\Users\syed.amanullah\source\repos\SF365\Webresources\bin\roslyn\VBCSCompiler.exe
 C:\Users\syed.amanullah\source\repos\SF365\Webresources\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\syed.amanullah\source\repos\SF365\Webresources\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\syed.amanullah\source\repos\SF365\Webresources\obj\Debug\Webresources.csprojAssemblyReference.cache
 C:\Users\syed.amanullah\source\repos\SF365\Webresources\obj\Debug\Webresources.csproj.CoreCompileInputs.cache
 C:\Users\syed.amanullah\source\repos\SF365\Webresources\obj\Debug\Webresources.csproj.CopyComplete
 C:\Users\syed.amanullah\source\repos\SF365\Webresources\obj\Debug\Webresources.dll
