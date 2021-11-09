@@ -15,6 +15,7 @@ C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\System.Memor
 C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\System.ValueTuple.dll
 C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\System.Buffers.dll
 C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\obj\Debug\Plugins.csprojAssemblyReference.cache
 C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
 C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\obj\Debug\Plugins.csproj.CopyComplete
 C:\Users\syed.amanullah\source\repos\SF365\AccountsPlugin\obj\Debug\Plugins.dll
