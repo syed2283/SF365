@@ -1,0 +1,6 @@
+C:\Users\syed.amanullah\source\repos\SF365\Solutions\bin\Debug\Solutions.dll
+C:\Users\syed.amanullah\source\repos\SF365\Solutions\bin\Debug\Solutions.pdb
+C:\Users\syed.amanullah\source\repos\SF365\Solutions\obj\Debug\Solutions.csprojAssemblyReference.cache
+C:\Users\syed.amanullah\source\repos\SF365\Solutions\obj\Debug\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\syed.amanullah\source\repos\SF365\Solutions\obj\Debug\Solutions.dll
+C:\Users\syed.amanullah\source\repos\SF365\Solutions\obj\Debug\Solutions.pdb

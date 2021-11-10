@@ -1,0 +1,24 @@
+5:03:14 PM	 - {70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+5:03:14 PM	Processing Component: WebResources
+5:03:14 PM	 - new_/js/accountScripts.js
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js.data.xml
+5:03:14 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js
+5:03:14 PM	Skipping 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js' as it matches a mapping directive
+5:03:14 PM	 - new_MyHtmlResource
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource.data.xml
+5:03:14 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource
+5:03:14 PM	Skipping 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource' as it matches a mapping directive
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Customizations.xml
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Solution.xml
+5:03:14 PM	
+5:03:14 PM	Unmanaged Extract complete.
+5:03:14 PM	
+5:03:14 PM	6 warnings encountered
+5:03:14 PM	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Plugins\bin\' does not exist.
+5:03:14 PM	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+5:03:14 PM	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+5:03:14 PM	Read-only files will be over-written or deleted.
+5:03:14 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js
+5:03:14 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource
+5:03:14 PM	CrmSvcUtil Runtime = 00:00:01.7919697

@@ -1,0 +1,16 @@
+5:03:13 PM	Read-only files will be over-written or deleted.
+5:03:13 PM	
+5:03:13 PM	Extracting C:\Users\syed.amanullah\AppData\Local\Temp\tmpF1F4.zip to C:\Users\syed.amanullah\source\repos\SF365\Solutions\package
+5:03:13 PM	
+5:03:13 PM	Skipping localization
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\RibbonDiff.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\Entity.xml
+5:03:13 PM	Processing Component: EntityRelationships
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\SystemUser.xml

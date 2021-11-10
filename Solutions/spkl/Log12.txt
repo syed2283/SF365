@@ -1,0 +1,14 @@
+5:03:13 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+5:03:13 PM	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+5:03:13 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+5:03:13 PM	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+5:03:13 PM	 - msdyn_liveconversation
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_liveconversation\RibbonDiff.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_liveconversation\Entity.xml
+5:03:13 PM	 - msdyn_ocliveworkitem
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_ocliveworkitem\RibbonDiff.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_ocliveworkitem\Entity.xml
+5:03:13 PM	 - new_contract
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\FormXml\card\{c6e05e0d-2a73-412a-be9b-ce14241ab0fa}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml

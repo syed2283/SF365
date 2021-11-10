@@ -1,0 +1,89 @@
+2021-11-10 17:03:13.092 - Info	Reading mapping directives...
+2021-11-10 17:03:13.104 - Verbose	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+2021-11-10 17:03:13.116 - Warning	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Plugins\bin\' does not exist.
+2021-11-10 17:03:13.117 - Verbose	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+2021-11-10 17:03:13.118 - Warning	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+2021-11-10 17:03:13.119 - Verbose	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+2021-11-10 17:03:13.120 - Warning	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+2021-11-10 17:03:13.405 - Warning	Read-only files will be over-written or deleted.
+2021-11-10 17:03:13.439 - Info	
+Extracting C:\Users\syed.amanullah\AppData\Local\Temp\tmpF1F4.zip to C:\Users\syed.amanullah\source\repos\SF365\Solutions\package
+
+2021-11-10 17:03:13.631 - Info	Skipping localization
+2021-11-10 17:03:13.646 - Info	Processing Component: Entities
+2021-11-10 17:03:13.658 - Info	 - Account
+2021-11-10 17:03:13.682 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\Formulas/account-opendeals.xaml
+2021-11-10 17:03:13.696 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\Formulas/account-openrevenue.xaml
+2021-11-10 17:03:13.750 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+2021-11-10 17:03:13.761 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+2021-11-10 17:03:13.769 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2021-11-10 17:03:13.775 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\RibbonDiff.xml
+2021-11-10 17:03:13.781 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Account\Entity.xml
+2021-11-10 17:03:13.786 - Info	 - Contact
+2021-11-10 17:03:13.790 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+2021-11-10 17:03:13.805 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+2021-11-10 17:03:13.810 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Contact\RibbonDiff.xml
+2021-11-10 17:03:13.816 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Contact\Entity.xml
+2021-11-10 17:03:13.820 - Info	 - msdyn_actual
+2021-11-10 17:03:13.820 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_actual\RibbonDiff.xml
+2021-11-10 17:03:13.826 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_actual\Entity.xml
+2021-11-10 17:03:13.830 - Info	 - msdyn_customerasset
+2021-11-10 17:03:13.831 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_customerasset\RibbonDiff.xml
+2021-11-10 17:03:13.836 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_customerasset\Entity.xml
+2021-11-10 17:03:13.839 - Info	 - msdyn_iotdevice
+2021-11-10 17:03:13.839 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_iotdevice\RibbonDiff.xml
+2021-11-10 17:03:13.844 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_iotdevice\Entity.xml
+2021-11-10 17:03:13.847 - Info	 - msdyn_liveconversation
+2021-11-10 17:03:13.848 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_liveconversation\RibbonDiff.xml
+2021-11-10 17:03:13.853 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_liveconversation\Entity.xml
+2021-11-10 17:03:13.855 - Info	 - msdyn_ocliveworkitem
+2021-11-10 17:03:13.856 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_ocliveworkitem\RibbonDiff.xml
+2021-11-10 17:03:13.861 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_ocliveworkitem\Entity.xml
+2021-11-10 17:03:13.865 - Info	 - new_contract
+2021-11-10 17:03:13.866 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\FormXml\card\{c6e05e0d-2a73-412a-be9b-ce14241ab0fa}.xml
+2021-11-10 17:03:13.873 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+2021-11-10 17:03:13.876 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml
+2021-11-10 17:03:13.881 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+2021-11-10 17:03:13.885 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+2021-11-10 17:03:13.888 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+2021-11-10 17:03:13.891 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+2021-11-10 17:03:13.898 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+2021-11-10 17:03:13.907 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+2021-11-10 17:03:13.934 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+2021-11-10 17:03:13.964 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\RibbonDiff.xml
+2021-11-10 17:03:13.972 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\new_contract\Entity.xml
+2021-11-10 17:03:13.977 - Info	Processing Component: EntityRelationships
+2021-11-10 17:03:13.986 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\SystemUser.xml
+2021-11-10 17:03:13.990 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\SLA.xml
+2021-11-10 17:03:13.993 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\Account.xml
+2021-11-10 17:03:13.996 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\Contact.xml
+2021-11-10 17:03:13.999 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\msdyn_FunctionalLocation.xml
+2021-11-10 17:03:14.002 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\Organization.xml
+2021-11-10 17:03:14.005 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships.xml
+2021-11-10 17:03:14.007 - Info	Processing Component: InteractionCentricDashboards
+2021-11-10 17:03:14.012 - Info	 - {15915835-b87c-49ec-9ffc-bfac3ac44ef1}
+2021-11-10 17:03:14.012 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+2021-11-10 17:03:14.016 - Info	 - {70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}
+2021-11-10 17:03:14.017 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+2021-11-10 17:03:14.020 - Info	Processing Component: WebResources
+2021-11-10 17:03:14.020 - Info	 - new_/js/accountScripts.js
+2021-11-10 17:03:14.023 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js.data.xml
+2021-11-10 17:03:14.034 - Warning	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js
+2021-11-10 17:03:14.034 - Info	Skipping 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js' as it matches a mapping directive
+2021-11-10 17:03:14.034 - Info	 - new_MyHtmlResource
+2021-11-10 17:03:14.034 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource.data.xml
+2021-11-10 17:03:14.037 - Warning	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource
+2021-11-10 17:03:14.037 - Info	Skipping 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource' as it matches a mapping directive
+2021-11-10 17:03:14.040 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Customizations.xml
+2021-11-10 17:03:14.044 - Verbose	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Solution.xml
+2021-11-10 17:03:14.052 - Info	
+Unmanaged Extract complete.
+
+2021-11-10 17:03:14.090 - Warning	6 warnings encountered
+2021-11-10 17:03:14.090 - Verbose	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Plugins\bin\' does not exist.
+2021-11-10 17:03:14.090 - Verbose	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+2021-11-10 17:03:14.090 - Verbose	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Webresources\Webresources\' does not exist.
+2021-11-10 17:03:14.091 - Verbose	Read-only files will be over-written or deleted.
+2021-11-10 17:03:14.091 - Verbose	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_\js\accountScripts.js
+2021-11-10 17:03:14.091 - Verbose	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\WebResources\new_MyHtmlResource
+2021-11-10 17:03:14.094 - Verbose	CrmSvcUtil Runtime = 00:00:01.7919697

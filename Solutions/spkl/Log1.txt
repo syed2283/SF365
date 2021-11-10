@@ -1,0 +1,16 @@
+4:51:30 PM	Packing & Import Solution
+4:51:30 PM	Searching for packager config in 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\spkl\..'
+4:51:30 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\Solutions'
+4:54:00 PM	Packing & Import Solution
+4:54:00 PM	Searching for packager config in 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\spkl\..'
+4:54:00 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\Solutions'
+4:55:50 PM	Packing & Import Solution
+4:55:50 PM	Searching for packager config in 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\spkl\..'
+4:55:50 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\Solutions'
+5:01:52 PM	Unpacking solution
+5:01:52 PM	Searching for packager config in 'C:\Users\syed.amanullah\source\repos\SF365\Solutions\spkl\..'
+5:01:52 PM	Using Config 'C:\Users\syed.amanullah\source\repos\SF365\Solutions'
+5:03:12 PM	Target C:\Users\syed.amanullah\source\repos\SF365\packages\spkl.1.0.640\tools
+5:03:12 PM	Map xml created at 'C:\Users\syed.amanullah\source\repos\SF365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
+5:03:12 PM	Running C:\Users\syed.amanullah\source\repos\SF365\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\syed.amanullah\AppData\Local\Temp\tmpF1F4.zip" /folder:"C:\Users\syed.amanullah\source\repos\SF365\Solutions\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml /clobber
+5:03:14 PM	Processed 1 config(s)

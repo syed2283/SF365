@@ -1,0 +1,17 @@
+5:03:13 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+5:03:13 PM	Map folder 'C:\Users\syed.amanullah\source\repos\SF365\Plugins\bin\' does not exist.
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\Contact\Entity.xml
+5:03:13 PM	 - msdyn_actual
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_actual\RibbonDiff.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_actual\Entity.xml
+5:03:13 PM	 - msdyn_customerasset
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_customerasset\RibbonDiff.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_customerasset\Entity.xml
+5:03:13 PM	 - msdyn_iotdevice
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_iotdevice\RibbonDiff.xml
+5:03:13 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Entities\msdyn_iotdevice\Entity.xml
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships\Organization.xml
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\Other\Relationships.xml
+5:03:14 PM	Processing Component: InteractionCentricDashboards
+5:03:14 PM	 - {15915835-b87c-49ec-9ffc-bfac3ac44ef1}
+5:03:14 PM	Creating: C:\Users\syed.amanullah\source\repos\SF365\Solutions\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
