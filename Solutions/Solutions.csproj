@@ -71,6 +71,7 @@
     <None Include="bin\coretools\LicenseTerms.docx" />
     <None Include="bin\coretools\pacTelemetryUpload.exe.config" />
     <None Include="bin\coretools\SolutionPackager.exe.config" />
+    <None Include="BuildScripts\UpdateBuildVersions.ps1" />
     <None Include="packages.config" />
     <None Include="spkl.json" />
     <None Include="spkl\deploy-plugins.bat" />
