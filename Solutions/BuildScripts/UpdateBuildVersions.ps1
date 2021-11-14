@@ -1,5 +1,5 @@
-﻿$Env:BUILD_SOURCESDIRECTORY="C:\SF365"
-$Env:BUILD_BUILDNUMBE="SF365_0001.00.00.1"	
+﻿$Env:BUILD_SOURCESDIRECTORY="C:\Users\syed.amanullah\source\repos\SF365"
+$Env:BUILD_BUILDNUMBER="SF365_0001.00.00.1"	
 
 # If found use it to version the assemblies.
 #
@@ -8,8 +8,7 @@ $Env:BUILD_BUILDNUMBE="SF365_0001.00.00.1"
 # then your build numbers come out like this:
 # "Build HelloWorld_2013.07.19.1"
 # This script would then apply version 2013.07.19.1 to your assemblies.
-
-
+	
 # Enable -Verbose option
 [CmdletBinding()]
 	
@@ -72,6 +71,63 @@ Write-Verbose "Version: $NewVersion"
 	
 # Apply the version to the assembly property files
 $files = gci $Env:BUILD_SOURCESDIRECTORY\Plugins -recurse -include "*Properties*","My Project" | 
+	?{ $_.PSIsContainer } | 
+	foreach { gci -Path $_.FullName -Recurse -include AssemblyInfo.* }
+if($files)
+{
+	Write-Verbose "Will apply $NewVersion to $($files.count) files."
+	
+	foreach ($file in $files) {
+		$filecontent = Get-Content($file)
+		attrib $file -r
+		$filecontent -replace $VersionRegex, $NewVersion | Out-File $file
+		Write-Verbose "$file.FullName - version applied"
+	}
+}
+else
+{
+	Write-Warning "Found no files."
+}
+# Apply the version to the assembly property files
+$files = gci $Env:BUILD_SOURCESDIRECTORY\Solutions -recurse -include "*Properties*","My Project" | 
+	?{ $_.PSIsContainer } | 
+	foreach { gci -Path $_.FullName -Recurse -include AssemblyInfo.* }
+if($files)
+{
+	Write-Verbose "Will apply $NewVersion to $($files.count) files."
+	
+	foreach ($file in $files) {
+		$filecontent = Get-Content($file)
+		attrib $file -r
+		$filecontent -replace $VersionRegex, $NewVersion | Out-File $file
+		Write-Verbose "$file.FullName - version applied"
+	}
+}
+else
+{
+	Write-Warning "Found no files."
+}
+# Apply the version to the assembly property files
+$files = gci $Env:BUILD_SOURCESDIRECTORY\Webresources -recurse -include "*Properties*","My Project" | 
+	?{ $_.PSIsContainer } | 
+	foreach { gci -Path $_.FullName -Recurse -include AssemblyInfo.* }
+if($files)
+{
+	Write-Verbose "Will apply $NewVersion to $($files.count) files."
+	
+	foreach ($file in $files) {
+		$filecontent = Get-Content($file)
+		attrib $file -r
+		$filecontent -replace $VersionRegex, $NewVersion | Out-File $file
+		Write-Verbose "$file.FullName - version applied"
+	}
+}
+else
+{
+	Write-Warning "Found no files."
+}
+# Apply the version to the assembly property files
+$files = gci $Env:BUILD_SOURCESDIRECTORY\Plugin.Tests -recurse -include "*Properties*","My Project" | 
 	?{ $_.PSIsContainer } | 
 	foreach { gci -Path $_.FullName -Recurse -include AssemblyInfo.* }
 if($files)

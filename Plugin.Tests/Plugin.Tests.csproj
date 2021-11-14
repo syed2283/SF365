@@ -87,7 +87,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AccountsPlugin\Plugins.csproj">
+    <ProjectReference Include="..\Plugins\Plugins.csproj">
       <Project>{33b5a689-0824-4ba3-bcfa-2b5d821551da}</Project>
       <Name>Plugins</Name>
     </ProjectReference>
